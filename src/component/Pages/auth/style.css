@@ -1,0 +1,40 @@
+
+.app {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+
+.app .mail {
+    width: 20%;
+    height: 35px;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.app .btn {
+    width: 10%;
+    height: 30px;
+    margin-top: 5px;
+    border: 1px solid rgb(24, 118, 210);
+    border-radius: 5px;
+    background-color: rgb(24, 118, 210);
+    cursor: pointer;
+    color: white;
+}
+
+
+.center{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.result{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;    
+}
+
